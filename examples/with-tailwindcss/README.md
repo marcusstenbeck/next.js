@@ -68,8 +68,8 @@ some webpack loaders. If you are curious about using loaders with next look at t
 
 This project shows how you can set it up. Have a look at:
 
-- pages/\_document.js
-- styles/config/postcss.config.js
+- pages/\_app.js
+- postcss.config.js
 - styles/config/tailwind.config.js
 - styles/index.css
 - styles/button.css
